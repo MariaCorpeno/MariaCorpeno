@@ -23,7 +23,7 @@ On GitHub, I am looking forward to contributing, receiving reviews, collabing,  
 <br>
 
 ### Short Term Goal :clock11:⚡
-Landy my first official role as a Software Developer.<br>
+Land my first official role as a Software Developer.<br>
 ### Long Term Goal:clock230:⚡
 My long term goal is to work as a Freelance Software Developer. 
 ### Side Project: <br>
