@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I live in New York, USA.<br> & I am currently learning to code and focusing on building side projects for my portfolio<br>
 I've learned HTML/HTML 5, CSS basics and JavaScript basics. I will be taking refresher courses and <br>
 expand my skills in CSS and JS fundamental/Frameworks. <br>
-I am currently learning Web Development and <br>dabbling in backend development  (Python) as well. <br> 
+I am currently learning Web Development and dabbling in backend development  (Python) as well. <br> 
 On GitHub, I am looking forward to contributing, receiving reviews, collabing,  etc etc on GitHub:mag::file_folder::bulb::smiley:
 <br>
 
